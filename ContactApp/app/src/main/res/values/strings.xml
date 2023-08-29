@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="new_contact">New Contact</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_email">Contact Email</string>
+    <string name="contact_phone">Contact Phone</string>
+    <string name="contact_address">Contact Address</string>
+</resources>
