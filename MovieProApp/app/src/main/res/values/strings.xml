@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieProApp</string>
+    <string name="api_key">ea0aa70e2de97b37e4af180e4875bba6</string>
+    <string name="api_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYTBhYTcwZTJkZTk3YjM3ZTRhZjE4MGU0ODc1YmJhNiIsInN1YiI6IjY0ZWU5ZDgxY2FhNTA4MDBjODg1ZDM1MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.y1gka5WPHE1BwWimZ9tt4W5YbE8QSTmr3UeMtJ7ICXc</string>
+</resources>
